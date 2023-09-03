@@ -1,0 +1,11 @@
+C:\Users\Richard\source\repos\Doomed\Doomed2\obj\Debug\Doomed2.csproj.AssemblyReference.cache
+C:\Users\Richard\source\repos\Doomed\Doomed2\obj\Debug\Doomed2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Richard\source\repos\Doomed\Doomed2\obj\Debug\Doomed2.Properties.Resources.resources
+C:\Users\Richard\source\repos\Doomed\Doomed2\obj\Debug\Doomed2.csproj.GenerateResource.cache
+C:\Users\Richard\source\repos\Doomed\Doomed2\obj\Debug\Doomed2.csproj.CoreCompileInputs.cache
+C:\Users\Richard\source\repos\Doomed\Doomed2\bin\Debug\Doomed2.exe.config
+C:\Users\Richard\source\repos\Doomed\Doomed2\bin\Debug\Doomed2.exe
+C:\Users\Richard\source\repos\Doomed\Doomed2\bin\Debug\Doomed2.pdb
+C:\Users\Richard\source\repos\Doomed\Doomed2\obj\Debug\Doomed2.exe
+C:\Users\Richard\source\repos\Doomed\Doomed2\obj\Debug\Doomed2.pdb
+C:\Users\Richard\source\repos\Doomed\Doomed2\obj\Debug\Doomed2.GameWindow.resources
